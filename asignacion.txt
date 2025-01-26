@@ -1,0 +1,24 @@
+Campo en Archivo TXT	Campo en Acces	Tipo de Dato en Acces
+S		
+Orden	Orden	Texto corto
+Doc.mat.	Doc_mat	Texto corto
+Fe.contab.	Fe_contab	Fecha/Hora
+Fecha doc.	Fecha_doc	Fecha/Hora
+Impte.ML	Impte_ML	N£mero
+Material	Material	Texto corto
+Cantidad	Cantidad	N£mero
+UMB	UMB	Texto corto
+Texto breve de material	Texto_breve	Texto corto
+Ce.	Ce	Texto corto
+Alm.	Alm	Texto corto
+CMv	CMv	Texto corto
+Cl.valor.	Cl_valor	N£mero
+Ctd.UME	Ctd_UME	Texto corto
+Cta.mayor	Cta_mayor	Texto corto
+Destinat.	Destinat	Texto corto
+D/H	D_H	Texto corto
+Mon.	Mon	Texto corto
+Reserva	Reserva	Texto corto
+Pos	Pos	Texto corto
+Pto.desc.	Pto_desc	Texto corto
+UME	UME	Texto corto
